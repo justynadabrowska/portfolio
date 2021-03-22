@@ -164,7 +164,7 @@ nav {
   font-size: 1em;
   background-color: rgba(255,255,255, 0.7);
   text-transform: lowercase;
-  border-radius: 50px;
+  border-radius: 30px;
 }
 
 .right:hover {
